@@ -56,6 +56,9 @@ public class BackPack {
 
         double result = bestBackPack(num, maxAmount, s);
         System.out.println(result);
+
+
+
     }
 }
 
